@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.6.1">
+    <DOCUMENT ANZPAGES="1" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="2" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" FirstLineOffset="1" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_US" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.5" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.6" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_US"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <STYLE NAME="Default Paragraph Style (2)" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15.7" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Bebas Neue Regular" FONTSIZE="14.1" FONTFEATURES="-clig,-liga"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="3" markLength="20" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="All" printerCommand=""/>
+        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="Section 1" From="0" To="0" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="112.81370786849" YPOS="219.516428476651" OwnPage="0" ItemID="1714484123" PTYPE="4" WIDTH="127.243504087568" HEIGHT="406.754281500795" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L127.244 0 L127.244 406.754 L0 406.754 L0 0 Z" copath="M0 0 L127.244 0 L127.244 406.754 L0 406.754 L0 0 Z" gXpos="112.81370786849" gYpos="219.516428476651" gWidth="127.243504087568" gHeight="389.954867152332" LAYER="0" NEXTITEM="1670370203" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle MinGlyphShrink="0.9"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="55357"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="56510"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="55356"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="57150"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH=" Iffy Books Permacomputing Meetup"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Sunday, June 23"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="1:00 p.m. – 3:00 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="55357"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="56538"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH=" Philly Socialists Reading Group: ‘Neither Vertical nor Horizontal: A Theory of Political Organization’ by Rodrigo Nunes"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Sunday, June 23"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="4:00 p.m. – 5:30 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="✏️ The Writing Room"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Tuesday, June 25"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="5:00 p.m. – 7:30 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="55356"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="57269"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH=" Open Cassette Mixtape Session"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Wednesday, June 26"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="1:00 p.m. – 5:00 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="55358"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="56976"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH=" Speculative Futures Reading Group: ‘Always Coming Home’ by Ursula K. Le Guin"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Wednesday, June 26"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="7:00 p.m. – 8:30 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="⚡️ Intermediate Soldering Session"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Thursday, June 27"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="6:00 p.m. – 7:30 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="55356"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="57312"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH=" Host a Website at Home"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Friday, June 28"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="2:00 p.m. – 5:00 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="55357"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="56545"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH=" Meshtastic 101"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Saturday, June 29"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="1:00 p.m. – 3:00 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="✏️ The Writing Room"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Tuesday, July 2"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="5:00 p.m. – 7:30 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="55357"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="56507"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH=" Philly 2600 Meetup"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Friday, July 5"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="6:00 p.m. – 8:00 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="55357"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="56538"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH=" Philly Socialists Reading Group: ‘Neither Vertical nor Horizontal: A Theory of Political Organization’ by Rodrigo Nunes"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Sunday, July 7"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="4:00 p.m. – 5:30 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="✏️ The Writing Room"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Tuesday, July 9"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="5:00 p.m. – 7:30 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="⚙️ Neo-Luddite Reading Group: ‘Blood in the Machine’ by Brian Merchant"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Wednesday, July 10"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="6:30 p.m. – 8:30 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="⚡️ Beginner Soldering Workshop"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Thursday, July 11"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="6:00 p.m. – 7:30 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="55357"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="56538"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH=" Ulises Big Summer Book Sale 2024"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Sunday, July 14"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="11:00 a.m. – 5:00 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="✏️ The Writing Room"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Tuesday, July 16"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="5:00 p.m. – 7:30 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="55358"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="56953"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH=" Bleeding Control Basics"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Wednesday, July 17"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="6:00 p.m. – 7:30 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="55357"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="56595"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH=" TOOOL Lock Picking Meetup"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Friday, July 19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="6:00 p.m. – 8:00 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="55356"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="57225"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH=" Iffy Books 3rd Birthday Party (Moved to 7/20!)"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Saturday, July 20"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="5:00 p.m. – 9:00 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="✏️ The Writing Room"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Tuesday, July 23"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="5:00 p.m. – 7:30 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="⚙️ Neo-Luddite Reading Group: ‘Blood in the Machine’ by Brian Merchant"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Wednesday, July 24"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="6:30 p.m. – 8:30 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="⚡️ Intermediate Soldering Session"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Thursday, July 25"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="6:00 p.m. – 7:30 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="55356"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="57252"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH=" Audio Recording Basics"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Friday, July 26"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="3:00 p.m. – 5:00 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="55357"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="56537"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH=" Book talk with Rob Drew, author of ‘Unspooled: How the Cassette Made Music Shareable’"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Friday, July 26"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="6:30 p.m. – 8:30 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="55356"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="57270"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH=" Intro to Computer Music: Build an Algorithmic Sequencer in Max"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Saturday, July 27"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="1:00 p.m. – 3:00 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="55357"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="56510"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="55356"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="57150"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH=" Iffy Books Permacomputing Meetup"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Sunday, July 28"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="1:00 p.m. – 3:00 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="✏️ The Writing Room"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Tuesday, July 30"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="5:00 p.m. – 7:30 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="55356"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="57269"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH=" Open Cassette Mixtape Session"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Wednesday, July 31"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="1:00 p.m. – 5:00 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="55358"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="56976"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH=" Speculative Futures Reading Group: ‘Annihilation’ by Jeff VanderMeer"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Wednesday, July 31"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="7:00 p.m. – 8:30 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="55357"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" Unicode="56507"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH=" Philly 2600 Meetup"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Friday, August 2"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="6:00 p.m. – 8:00 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="✏️ The Writing Room"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Tuesday, August 6"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="5:00 p.m. – 7:30 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="⚡️ Beginner Soldering Workshop"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Thursday, August 8"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="6:00 p.m. – 7:30 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="✏️ The Writing Room"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="Tuesday, August 13"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <ITEXT FONT="Bebas Neue Regular" FONTSIZE="14" CH="5:00 p.m. – 7:30 p.m."/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="19"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="245.878517628209" YPOS="235.883301485498" OwnPage="0" ItemID="1670370203" PTYPE="4" WIDTH="115.475039867953" HEIGHT="380.471310520359" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L115.475 0 L115.475 380.471 L0 380.471 L0 0 Z" copath="M0 0 L115.475 0 L115.475 380.471 L0 380.471 L0 0 Z" gXpos="245.878517628209" gYpos="235.883301485498" gWidth="115.475039867953" gHeight="378.808199121523" LAYER="0" NEXTITEM="1671125915" BACKITEM="1714484123"/>
+        <PAGEOBJECT XPOS="300.083420626293" YPOS="48.0976354516764" OwnPage="0" ItemID="1669697435" PTYPE="4" WIDTH="214.406427097589" HEIGHT="173.950325394186" FRTYPE="0" CLIPEDIT="1" ROT="2.18948005327681" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="2" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L214.406 0 L214.406 173.95 L0 173.95 L0 0 Z" copath="M0 0 L203.566 50.9714 L132.707 215.615 L-70.8591 164.643 L0 0 Z" gXpos="300.083420626293" gYpos="48.0976354516764" gWidth="153.188552793568" gHeight="151.918269767593" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="18"/>
+                <ITEXT FONT="Anton Regular" FONTSIZE="20" CH="Open Weds"/>
+                <ITEXT FONT="Anton Regular" FONTSIZE="20" KERN="8" CH="–S"/>
+                <ITEXT FONT="Anton Regular" FONTSIZE="20" CH="un"/>
+                <para ALIGN="1" LINESPMode="0" LINESP="27.5"/>
+                <ITEXT FONT="Anton Regular" FONTSIZE="20" CH="12"/>
+                <ITEXT FONT="Anton Regular" FONTSIZE="20" KERN="6" CH="–"/>
+                <ITEXT FONT="Anton Regular" FONTSIZE="20" KERN="4" CH="7"/>
+                <ITEXT FONT="Anton Regular" FONTSIZE="20" CH=" p.m. at "/>
+                <breakline/>
+                <ITEXT FONT="Anton Regular" FONTSIZE="20" CH="404 S. 20th St., PHL "/>
+                <para ALIGN="1" LINESPMode="0" LINESP="27.5"/>
+                <para ALIGN="1" LINESPMode="0" LINESP="12.5"/>
+                <ITEXT FONT="Anton Regular" FONTSIZE="20" CH="Event details at "/>
+                <ITEXT FONT="Anton Regular" FONTSIZE="20" KERN="3" CH="iffybooks.net"/>
+                <para ALIGN="1" LINESPMode="0" LINESP="27.5"/>
+                <para ALIGN="1" LINESPMode="0" LINESP="27.5"/>
+                <para ALIGN="1" LINESPMode="0" LINESP="27.5"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="866.99030028654" YPOS="-123.713244762727" OwnPage="-1" ItemID="1669774747" PTYPE="7" WIDTH="163.114156201237" HEIGHT="193.028757086259" FRTYPE="3" CLIPEDIT="1" ROT="100.987064368066" PWIDTH="1" PCOLOR="White" PCOLOR2="White" PLINEART="1" TEXTFLOWMODE="3" path="M163.114 2.55951 L118.794 94.5101 L62.3896 151.432 L0 193.029 L53.5998 0 L162.994 6.93811 L162.994 6.93811 " copath="M7.68731 130.942 L-105.749 101.044 L-177.948 58.5338 L-232.152 9.92741 L3.293 40.0124 L2.42126 131.167 L2.42126 131.167 L7.68731 130.942 Z" gXpos="866.99030028654" gYpos="-123.713244762727" gWidth="112.661825697198" gHeight="138.054085847229" LAYER="0"/>
+        <PAGEOBJECT XPOS="366.771130895642" YPOS="221.005348652932" OwnPage="0" ItemID="1671125915" PTYPE="4" WIDTH="115.352176972848" HEIGHT="389.006210519242" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L115.352 0 L115.352 389.006 L0 389.006 L0 0 Z" copath="M0 0 L115.352 0 L115.352 389.006 L0 389.006 L0 0 Z" gXpos="366.771130895642" gYpos="221.005348652932" gWidth="115.352176972848" gHeight="391.9968" LAYER="0" NEXTITEM="-1" BACKITEM="1670370203"/>
+        <PAGEOBJECT XPOS="102.4" YPOS="36.3179490471235" OwnPage="0" ItemID="1671143323" PTYPE="2" WIDTH="233.009956076135" HEIGHT="186.082050952877" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="0.0336" LOCALSCY="0.0336" LOCALX="-87.2142857142857" LOCALY="510" LOCALROT="356" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="Iffy_Books_Logo_March_2023.png" IRENDER="0" EMBEDDED="0" path="M0 0 L233.01 0 L233.01 186.082 L0 186.082 L0 0 Z" copath="M0 0 L233.01 0 L233.01 186.082 L0 186.082 L0 0 Z" gXpos="102.4" gYpos="36.3179490471235" gWidth="272.279724493169" gHeight="229.590688783571" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="239.095866849852" YPOS="147.891324641418" OwnPage="0" ItemID="1713531291" PTYPE="4" WIDTH="157.421444498883" HEIGHT="56.513264725159" FRTYPE="0" CLIPEDIT="1" ROT="15.2681348604514" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L157.421 0 L157.421 56.5133 L0 56.5133 L0 0 Z" copath="M0 0 L-71.5925 45.0735 L-197.449 3.32909 L-125.856 -41.7445 L0 0 Z" gXpos="239.095866849852" gYpos="147.891324641418" gWidth="111.265654457843" gHeight="95.8857777930718" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Noto Emoji Regular" FONTSIZE="43" Unicode="55356"/>
+                <ITEXT FONT="Noto Emoji Regular" FONTSIZE="43" Unicode="57197"/>
+                <trail ALIGN="1" LINESP="31"/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
